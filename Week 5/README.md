@@ -1,0 +1,2 @@
+This repository contains my Week 5 submission for the Data Analytics Track of the AnalystLab Africa Experience Lab Internship:
+the SwiftLog Logistics Analytics & AI Transformation Project. It covers a Power BI dashboard built from the SwiftLog datasets, with five report pages (Performance Overview, Customers & Orders, Inventory & Warehouse, Shipment & Delivery, and Supplier & Product Performance). It also includes an Executive Business Intelligence Report and a presentation of the findings, flagged items and business recommendations for SwiftLog's leadership team.
